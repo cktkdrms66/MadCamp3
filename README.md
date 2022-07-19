@@ -34,5 +34,5 @@ dlflwjfl는 자이로센서를 기반으로 제작된 폭탄 돌리기 게임입
 
 
 ## Download
-- [Download](https://drive.google.com/file/d/1ON19DNR5jX3u2jnX-KkAerNwoOcxrK6l/view?usp=sharing)
+- [Download](https://drive.google.com/file/d/17YAoL5gnra3DyQg3SG_5COgYn-f9U0TX/view?usp=sharing)
 
